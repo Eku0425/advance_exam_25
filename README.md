@@ -1,12 +1,18 @@
 # advance_exam_25
 # Features
-Add, view, edit, and delete notes.
-Sync notes with Firebase Firestore.
-Organize notes into categories.
-Color-code notes for better organization.
-Search functionality to find notes quickly.
-Offline support with automatic sync when online.
-Responsive and adaptive UI for both Android and iOS devices.
+👉 Add, view, edit, and delete notes.
+
+👉  Sync notes with Firebase Firestore.
+
+👉  Organize notes into categories.
+
+👉 Color-code notes for better organization.
+
+ 👉 Search functionality to find notes quickly.
+ 
+ 👉 Offline support with automatic sync when online.
+ 
+👉  Responsive and adaptive UI for both Android and iOS devices.
 
 
 https://drive.google.com/drive/folders/1Wu86tmz-SultRnmLpbnzgAe9ETilrl7l
