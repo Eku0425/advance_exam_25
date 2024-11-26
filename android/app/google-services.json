@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "531766927901",
+    "project_id": "advance-exam-25",
+    "storage_bucket": "advance-exam-25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531766927901:android:0e56c0216be7d18d979cf4",
+        "android_client_info": {
+          "package_name": "com.example.advance_exam_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNih023y0FFeOG4SpBGWOCFhHt2Mvv9UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531766927901:android:5b2a4c35fbb7be0a979cf4",
+        "android_client_info": {
+          "package_name": "com.example.advance_exam_25"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNih023y0FFeOG4SpBGWOCFhHt2Mvv9UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
